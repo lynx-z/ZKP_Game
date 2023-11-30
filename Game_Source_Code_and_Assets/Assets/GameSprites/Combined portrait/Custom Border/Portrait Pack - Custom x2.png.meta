@@ -1,0 +1,4535 @@
+fileFormatVersion: 2
+guid: 89a53c11baf444fbb93030baa6c68759
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27fbed8a6fa541aa85b208075e5be4c
+      internalID: 346898980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823d9eb6c85a34fb7b2ff5af87b23646
+      internalID: 757199327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f2e3e82dd0042d5bd40bb1a9e1689f
+      internalID: 1797585800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf3ba318757449bdb5954ce3d3a8cad
+      internalID: 599813296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258e251044fb47d3a478fce417c8221
+      internalID: 2088808980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6407c704d1a194ac3be69800d896a10c
+      internalID: -377367047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c4738b51b404619b2179d383513844
+      internalID: -1925964804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27c8a446c26b424cbf542f1fdb04ff1
+      internalID: 1942425702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a569d9c5aceef42c0b91314abe380648
+      internalID: -2021348413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b42cdf48f1ca46ea862e27a2b33a422
+      internalID: 2130095580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3799164d90a4d08af12a98c7336f78
+      internalID: -941047954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb7abe316587473cbfeae4e3cb77443
+      internalID: 1890714515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_12
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d044cfaa0f5a945cebb628ee29f64447
+      internalID: 826952429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_13
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0571335756ef400e9c9bed910a9a009
+      internalID: -2128197546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_14
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94487ac54a8d4e619c26560b62243e6
+      internalID: -1699990891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f9b382ad4684c32abd969325d40413
+      internalID: -729763394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_16
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b7c588176a488584079f9d1c54ba4
+      internalID: -2078188920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_17
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f0323e83f5947f0836450c88855f71
+      internalID: -1768555203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_18
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5d8e50ee4bc401e822cd521e8a6865
+      internalID: 1564802456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fd903a067fb4130b4d0cc663793f14
+      internalID: 1045878837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_20
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6151ceb21c764011970b1c7797c629d
+      internalID: -1191524422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_21
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0943780f5d95940abb09c14d5b3d1ca3
+      internalID: 387178503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_22
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe819ed401d654907805941377edf476
+      internalID: 2097850023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_23
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d14f2df4e244d47a45bf22fc43435b
+      internalID: -1295192967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_24
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b378498ca8ad34371ac0294ef7b42bac
+      internalID: 1551626351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_25
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8508ad3835d4cd183d8364ead7b40b
+      internalID: -310197681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_26
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ba2b99f284f40b4bafdc63dc68eb42
+      internalID: -1759878182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_27
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aea12251c8540fb904343bff08ade5
+      internalID: -647345088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_28
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151220b10f5674bb1a7f79653ea3ebfa
+      internalID: -965994133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_29
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211cd13c2cc18434bbc91bf17127e407
+      internalID: 2121976192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_30
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941488c15a01e439fa449adc4813db87
+      internalID: -293340681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_31
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce000ce6a11624659bc3983e25e86419
+      internalID: -366894599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_32
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a74c6d105647ba85b02639bcff564
+      internalID: 27999218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_33
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fd8072560db4ed0a2c0fd98cf25ff6
+      internalID: 281660093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_34
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2346e79fcd9e745bda3f53f5ea5c9d44
+      internalID: 1440988025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_35
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 212
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a9bcf11599b4929992708618117bc0
+      internalID: -1085490519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647589f674f244d789b96a2dfafd7d81
+      internalID: 1839388262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2261aa2b969b14122a4cb82a12b7a9da
+      internalID: 512281136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ae5875bbf524105aa12bcb36e42da4
+      internalID: -394166023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6bf81d1d5da428c872c99089e3a677
+      internalID: -21381737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb5a8217a4044141aeeae8a46623722
+      internalID: 1377931421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e63ed61802d4cbdba7f23a85c9c84f
+      internalID: 1543434260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_42
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6125d311f677646b8a7fb191bdcbd750
+      internalID: -2016685878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b5070562b5f4698b438f74b636bddd
+      internalID: -1379863836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_44
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b18431d0497d4875b71b29dbdb82c41
+      internalID: 1766038685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_45
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0d29bc2cfb41aea61791aaca5542c
+      internalID: 288217867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_46
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4034a4cf0d28a4c74b37d4dd135654e8
+      internalID: -413050479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be478fee1f1044fb7b6923dfb6d98337
+      internalID: -1595090154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_48
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7695e0accb1d444038b544837222a49b
+      internalID: -1221522849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_49
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5152c57402f642619babec0f8f438d5
+      internalID: -919551043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_50
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a0e5194702c45ffbc7e3075c5e1a6f
+      internalID: -2100504502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_51
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6d282c53f9b46d99e979a11469946a
+      internalID: 101996443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_52
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7268fe905db4e89a9fc84fcbfa0fdf
+      internalID: 688205868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_53
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67ea505a0fd04953ba5b626305e14ba
+      internalID: -1978864278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_54
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcebc3696bd84c78afc4cf68a1ad8a9
+      internalID: -1429989098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_55
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9a5cbf8fd1d43c0b919444bc18494e
+      internalID: -1961138891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_56
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b9261e9c4ec44338040022105e2f2d
+      internalID: -2056502391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_57
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf32b8085815e4fe59efea87a03ac8e4
+      internalID: 627907626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_58
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb822693aae7a4c4491dc1bcec306e0c
+      internalID: 273468883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_59
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2e030cf02824e52a081bbbc8509b20
+      internalID: 1946739546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_60
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c1c31f55f30456197be5653afb1bee
+      internalID: 1457929550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_61
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bf28f7638794df7aa8b5e5dfb05b2e
+      internalID: 98300692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_62
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03000ffd0d96f4acbb747f3bfefe6488
+      internalID: -1741494352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_63
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ba35caa183c4fdc987480bba15af92
+      internalID: -51617943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_64
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b4f81d5d5cb4f79a097f5be4fc50e3
+      internalID: 190856093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_65
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a65006ffec4ec994d38ba69525745
+      internalID: 1674290771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_66
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967df5b176f684119be064e2e8541854
+      internalID: 671633433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_67
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce08c93fbc184a72a1b3bbd853fcfed
+      internalID: 1850003948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_68
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71910514baacd41178c32b71bf0b0276
+      internalID: -172150880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_69
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705719bb301048798a0590f0c4b58c9
+      internalID: -431976169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_70
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b947e269d4804038a7e722904112f04
+      internalID: 154311863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_71
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 170
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e747129c4cd3a4b4e8c3f2c901d57700
+      internalID: -1241216716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cceba0924a884fe7b7e8315babcbeba
+      internalID: -2049557899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_73
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717085a376e214a19b61c138363d0fb9
+      internalID: -1402886590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_74
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1446d0846675b42a0b33ecb449b87c8a
+      internalID: -1175240185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bad4f6355a949d99bd22acea34e243
+      internalID: -1717407725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_76
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eacc63ee640a40e68c0f3900da53506
+      internalID: 2092676711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_77
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba26194acc0a4fcb93808f77f58913c
+      internalID: 615290961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_78
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325190f46f4b24dd08aaabcb6c97710f
+      internalID: -65759585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097655ddf50d04946bad31d51090a755
+      internalID: -1675088912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_80
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a00d323921a42e791880e5233efb89
+      internalID: 1617717157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_81
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbdc54f02ff6415a940d730f55a6f0b
+      internalID: 1421285613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_82
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74427383d31e44683b95770d8533dda4
+      internalID: -571393183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_83
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f39a77015cba47929481967d3bafb3a
+      internalID: -822418261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_84
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f3b48d5308740b79269e8654090c8d
+      internalID: 849524295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_85
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e71c7161f4f40a8bf8945fcc09a391
+      internalID: -138828216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_86
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84729ae3796243d0a785d23800be4c0
+      internalID: -1026830223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_87
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9e46a879e1f4168953625b2ef0a798
+      internalID: -998189123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_88
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1667fd61bd80b49d3866844ac360bd36
+      internalID: -2044394715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_89
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724949fac9fa14b5f88d43719f1c8871
+      internalID: 1812166109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_90
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d664e9b8e634710b5c8b78701fbab1
+      internalID: -1111627573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_91
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5e8a8917fed4560a4828ef37175f2a
+      internalID: -2095047565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_92
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069eedc5877c04861b5e70116b5189b7
+      internalID: -1419611069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_93
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e44389155ca941849b9628a0143e925
+      internalID: 1603888959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_94
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301759e59f9a047998ccf829ab29c5c0
+      internalID: 1140726073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_95
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f9e330abda045f7bd2af6c818db3de
+      internalID: 1121622245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_96
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce634805651174b34ba5a73c1dbb4fc4
+      internalID: -1695919409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_97
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f1d143fad47468e8ff1bb5fe5d8766
+      internalID: -592489119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_98
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a147585c45764f64bf03f929ea7d3cf
+      internalID: 1388754933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_99
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a5ccb5d8c047b5879354b3fd0c149
+      internalID: -68327143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_100
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9424a7b9e0312417db698e204385c86b
+      internalID: 757855726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_101
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69facf039196e4779b95b79bff8fb197
+      internalID: 2025910405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_102
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b609adeece7b440d95d29943fc4ae3b
+      internalID: 1318417253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_103
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 128
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78e09d1b48a24060871592e5fa32b12
+      internalID: -1781557225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee1c60803a374b6f9a039996346c68b
+      internalID: 234280051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_105
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c470b7592edc94d119a506805c399b1c
+      internalID: -498609906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_106
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271a990d9031a496a908cb9738790510
+      internalID: 1304054746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8a0319f96ae4e4eac63d608c6a73c4
+      internalID: 536903713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_108
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abc60b5762254e3b816c5db0d3848aa
+      internalID: 395705050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_109
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60addec818754bc6a6bcbcb8178cb2c
+      internalID: 1674340424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_110
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1287e608e67ee43fda835212b60f4a0f
+      internalID: -1779785303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_111
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333cfe002ff8e40e2b90d38b87b0f1f5
+      internalID: 1230388111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_112
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f5c06e86a44861a29be76c01d8455
+      internalID: 944873556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_113
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f33ca31942941b3a41b3bc6e52689d
+      internalID: -1035304672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_114
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84a5ba9e11a429186ad6fdcd560335
+      internalID: 1567534762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_115
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6278daf0c71454f339695808dac6c26d
+      internalID: -1539531128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_116
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80e9be9bfa1548bc96b4871eb528090
+      internalID: 1662507430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_117
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbba7dcf94e94438f96da6581a125c3e
+      internalID: -645200798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_118
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e93aee0f385466a88ee2a1b597ec4c
+      internalID: 850688232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_119
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f7ffd2b3d343c8b073e29005f06c7
+      internalID: 34142476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_120
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ebefd59dfae463583af64b19963afb
+      internalID: -272106140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_121
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c762aa4d3da40998ae8bf03e6dbe12
+      internalID: 583352954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_122
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3114f4624e1c6474b9ce85166acd80c9
+      internalID: -2109419046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_123
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9b83a51cc344811b27a980190cc39f
+      internalID: 1406177334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_124
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb29df47813894cd19d64ab0d3e4b604
+      internalID: -281943013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_125
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d764f2470c3ad4db387c3441549db84c
+      internalID: 1606177995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_126
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee149592b87b64ac8bc68abfae8f7533
+      internalID: -57497689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_127
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734eb291f361941179328c038b1d20f6
+      internalID: 235905775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_128
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a92db6556214bdd996c72d28986c67
+      internalID: 1650023234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_129
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd7dda70ab9645cfa8157b3b8b1065d
+      internalID: -1984381921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_130
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1b37f4be3ce4b48abaffe7d8fd5f8e
+      internalID: -188284610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_131
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7665eb82d317e40e0b2ab1cb048606f8
+      internalID: -1916891098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_132
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f2810e2b2924f7e9e2ff77aa8ac370
+      internalID: -1387283696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_133
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa9360ca902748239c8545924f9bba7
+      internalID: -1572924991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_134
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c9cb01d6ce04cb0b5f328a7e17c349
+      internalID: 681432390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_135
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 86
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3169c452af611486d9bdfd129950612e
+      internalID: -884216515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_136
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf03156067d8441ddb0d8413ac2d0ad4
+      internalID: -2037426487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_137
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984e3524f1dd74121b64b3a66c3b931b
+      internalID: -544535055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_138
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad6358eaf374f96b5f0ed5673f1d76
+      internalID: -309513102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb68fb19f63c4086bdccb7f5a4bec13
+      internalID: 416076652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_140
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163aaa3168c14963a7be5401f422434
+      internalID: -718180109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_141
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d482d6af010dd42f1a9aafe57fba66de
+      internalID: -1945797949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_142
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cce135d9ec6e4f7583295ed38d67256
+      internalID: 520075727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_143
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9da92a001c9f46208d57a588d1be9d2
+      internalID: 2042749823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_144
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103f20c8c310f4a5591d0e87a318395b
+      internalID: 14447858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_145
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898739e095c28407aabb793220fe968e
+      internalID: -589968103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_146
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0deecd8a55474d0c995b278fb80a063
+      internalID: -25130283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_147
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e568baf70cd143e299964751cbb2d7b
+      internalID: -2095273319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_148
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337f149c701fd46d19b3473862f79617
+      internalID: -699150357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_149
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173748da60c5740f3954a9b7fba8a979
+      internalID: -451379389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_150
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a52de90a996408da6d494db2fa1aa3
+      internalID: 2053818091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_151
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7c5423534124bdb92ccf79a91b6667
+      internalID: 2105653369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_152
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc647f55ac094cf1aeae7954635f610
+      internalID: 2029812631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_153
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1016288ac51424706a4abcaf25abb06f
+      internalID: -2070613331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_154
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e095fbcf419064f0b91d7d904cae2fca
+      internalID: 319629929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_155
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e227214f0234d978df9d677d624ca9
+      internalID: 1093662313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_156
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1060ee9722ad4ce3987c536c07c4829
+      internalID: 203540551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_157
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703d6b66e2f1f422ebce29b96d6b56e9
+      internalID: -1740475051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_158
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5295f9ef6c7194be29309d11a66b5f00
+      internalID: 787124415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_159
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33caabbff458146c6ab38d7f2581b38b
+      internalID: -284917484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_160
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2cd165a275a4bd09bd5f6f123c1836
+      internalID: 1311860736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_161
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5012b56fd4df14ea4b8e200232b54f96
+      internalID: -1239651925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_162
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537d86cc6734f498cb505d66600c1de9
+      internalID: 1466064893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_163
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19be682eaa741456e84b6d69dbbd432d
+      internalID: 2030981244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_164
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e539c77caab78446cb6355b4d8c95742
+      internalID: 202460493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_165
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d61ac72ea31d4fd2ae4aa89403989d9
+      internalID: -728110311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_166
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9691c0bed1f414203bebf99f9fb13767
+      internalID: 338062246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_167
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17d55a3ece534310a12487ec2de03d8
+      internalID: 1125140969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_168
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ec6a26dccfd416196939524662b896
+      internalID: 1437744421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_169
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e199231593278405abb3272598ac5190
+      internalID: -1234321156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_170
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf360f8e6ca9c4fe3912a7daf642b6cf
+      internalID: 1236786482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_171
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d6592168a544a12acbf2a59f2ada99
+      internalID: -1563498178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_172
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e1d18b8fde348019264535187d7835
+      internalID: -338722857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_173
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e116492cead0a467fa5cc50e3b49ebd3
+      internalID: -1379577016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_174
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3563c79f056c241a8a148e1783cf1fcf
+      internalID: -1538135345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_175
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2be75d22974548138f6136423242472
+      internalID: -1231956891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_176
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7710f7684a324f338a9eb1e0a84b8e2
+      internalID: -1960120335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_177
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6715e2f5a8e6474cac21ec0636c19fe
+      internalID: 1180147360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_178
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcac9f3ce14444ae298aef33762c74e1
+      internalID: -1234040184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_179
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df79d32100046a2a1784517b6c1bfc
+      internalID: -1514733982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_180
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29227f0bf04b9429db59fcbb7c0d121c
+      internalID: 1916401835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_181
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691af6b7c33c745429576d86555b3976
+      internalID: 321451485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_182
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19ab6e7b85df4d419791e0d15cad8b1
+      internalID: 1389808627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_183
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15a113d881694f1b9857bcff86d71c3
+      internalID: 847613665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_184
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de8bc908e5dd47e49645c9c25990cb9
+      internalID: 1960723278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_185
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9c81aa8746e427ca9b674509141c0b
+      internalID: 1956484563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_186
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a132dd58fa8644baaa2388e56b40f47
+      internalID: 1211086273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_187
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0d14f37602f45eab9a65123da2fb0e
+      internalID: -1992796222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_188
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086470224c5394e3f85fb11a5923eb87
+      internalID: -810418518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_189
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9228b35a3f89b4b00a392e4d0902b069
+      internalID: -1952688986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_190
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310ac40d793fe49c4904ea38dfe9eaf0
+      internalID: -608122471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_191
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ed9d869d8f14ae4bd3f0515690bdfe
+      internalID: 622857330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_192
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff50d94f606f4248aeb8c682633bc53
+      internalID: -474831463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_193
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8102a7867dd094d65a1a21dd13ecb858
+      internalID: -635353473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_194
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4321775ca20c24acdbffcd0eb44a5b4c
+      internalID: -1612664636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_195
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d99d44407664fd8b244420f302646e
+      internalID: 29919550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_196
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fcfcb2e5e344d7d92e01ec93828dba
+      internalID: 1367809539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_197
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a71c3b5f2aab470fbc712ecd78cbd63
+      internalID: -1030891832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_198
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8946d7e8af204ae7b59bd6f17285391
+      internalID: 257392515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portrait Pack - Custom x2_199
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4098ec1a36a4b26a9626700ffda09b
+      internalID: -211377647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Portrait Pack - Custom x2_0: 346898980
+      Portrait Pack - Custom x2_1: 757199327
+      Portrait Pack - Custom x2_10: -941047954
+      Portrait Pack - Custom x2_100: 757855726
+      Portrait Pack - Custom x2_101: 2025910405
+      Portrait Pack - Custom x2_102: 1318417253
+      Portrait Pack - Custom x2_103: -1781557225
+      Portrait Pack - Custom x2_104: 234280051
+      Portrait Pack - Custom x2_105: -498609906
+      Portrait Pack - Custom x2_106: 1304054746
+      Portrait Pack - Custom x2_107: 536903713
+      Portrait Pack - Custom x2_108: 395705050
+      Portrait Pack - Custom x2_109: 1674340424
+      Portrait Pack - Custom x2_11: 1890714515
+      Portrait Pack - Custom x2_110: -1779785303
+      Portrait Pack - Custom x2_111: 1230388111
+      Portrait Pack - Custom x2_112: 944873556
+      Portrait Pack - Custom x2_113: -1035304672
+      Portrait Pack - Custom x2_114: 1567534762
+      Portrait Pack - Custom x2_115: -1539531128
+      Portrait Pack - Custom x2_116: 1662507430
+      Portrait Pack - Custom x2_117: -645200798
+      Portrait Pack - Custom x2_118: 850688232
+      Portrait Pack - Custom x2_119: 34142476
+      Portrait Pack - Custom x2_12: 826952429
+      Portrait Pack - Custom x2_120: -272106140
+      Portrait Pack - Custom x2_121: 583352954
+      Portrait Pack - Custom x2_122: -2109419046
+      Portrait Pack - Custom x2_123: 1406177334
+      Portrait Pack - Custom x2_124: -281943013
+      Portrait Pack - Custom x2_125: 1606177995
+      Portrait Pack - Custom x2_126: -57497689
+      Portrait Pack - Custom x2_127: 235905775
+      Portrait Pack - Custom x2_128: 1650023234
+      Portrait Pack - Custom x2_129: -1984381921
+      Portrait Pack - Custom x2_13: -2128197546
+      Portrait Pack - Custom x2_130: -188284610
+      Portrait Pack - Custom x2_131: -1916891098
+      Portrait Pack - Custom x2_132: -1387283696
+      Portrait Pack - Custom x2_133: -1572924991
+      Portrait Pack - Custom x2_134: 681432390
+      Portrait Pack - Custom x2_135: -884216515
+      Portrait Pack - Custom x2_136: -2037426487
+      Portrait Pack - Custom x2_137: -544535055
+      Portrait Pack - Custom x2_138: -309513102
+      Portrait Pack - Custom x2_139: 416076652
+      Portrait Pack - Custom x2_14: -1699990891
+      Portrait Pack - Custom x2_140: -718180109
+      Portrait Pack - Custom x2_141: -1945797949
+      Portrait Pack - Custom x2_142: 520075727
+      Portrait Pack - Custom x2_143: 2042749823
+      Portrait Pack - Custom x2_144: 14447858
+      Portrait Pack - Custom x2_145: -589968103
+      Portrait Pack - Custom x2_146: -25130283
+      Portrait Pack - Custom x2_147: -2095273319
+      Portrait Pack - Custom x2_148: -699150357
+      Portrait Pack - Custom x2_149: -451379389
+      Portrait Pack - Custom x2_15: -729763394
+      Portrait Pack - Custom x2_150: 2053818091
+      Portrait Pack - Custom x2_151: 2105653369
+      Portrait Pack - Custom x2_152: 2029812631
+      Portrait Pack - Custom x2_153: -2070613331
+      Portrait Pack - Custom x2_154: 319629929
+      Portrait Pack - Custom x2_155: 1093662313
+      Portrait Pack - Custom x2_156: 203540551
+      Portrait Pack - Custom x2_157: -1740475051
+      Portrait Pack - Custom x2_158: 787124415
+      Portrait Pack - Custom x2_159: -284917484
+      Portrait Pack - Custom x2_16: -2078188920
+      Portrait Pack - Custom x2_160: 1311860736
+      Portrait Pack - Custom x2_161: -1239651925
+      Portrait Pack - Custom x2_162: 1466064893
+      Portrait Pack - Custom x2_163: 2030981244
+      Portrait Pack - Custom x2_164: 202460493
+      Portrait Pack - Custom x2_165: -728110311
+      Portrait Pack - Custom x2_166: 338062246
+      Portrait Pack - Custom x2_167: 1125140969
+      Portrait Pack - Custom x2_168: 1437744421
+      Portrait Pack - Custom x2_169: -1234321156
+      Portrait Pack - Custom x2_17: -1768555203
+      Portrait Pack - Custom x2_170: 1236786482
+      Portrait Pack - Custom x2_171: -1563498178
+      Portrait Pack - Custom x2_172: -338722857
+      Portrait Pack - Custom x2_173: -1379577016
+      Portrait Pack - Custom x2_174: -1538135345
+      Portrait Pack - Custom x2_175: -1231956891
+      Portrait Pack - Custom x2_176: -1960120335
+      Portrait Pack - Custom x2_177: 1180147360
+      Portrait Pack - Custom x2_178: -1234040184
+      Portrait Pack - Custom x2_179: -1514733982
+      Portrait Pack - Custom x2_18: 1564802456
+      Portrait Pack - Custom x2_180: 1916401835
+      Portrait Pack - Custom x2_181: 321451485
+      Portrait Pack - Custom x2_182: 1389808627
+      Portrait Pack - Custom x2_183: 847613665
+      Portrait Pack - Custom x2_184: 1960723278
+      Portrait Pack - Custom x2_185: 1956484563
+      Portrait Pack - Custom x2_186: 1211086273
+      Portrait Pack - Custom x2_187: -1992796222
+      Portrait Pack - Custom x2_188: -810418518
+      Portrait Pack - Custom x2_189: -1952688986
+      Portrait Pack - Custom x2_19: 1045878837
+      Portrait Pack - Custom x2_190: -608122471
+      Portrait Pack - Custom x2_191: 622857330
+      Portrait Pack - Custom x2_192: -474831463
+      Portrait Pack - Custom x2_193: -635353473
+      Portrait Pack - Custom x2_194: -1612664636
+      Portrait Pack - Custom x2_195: 29919550
+      Portrait Pack - Custom x2_196: 1367809539
+      Portrait Pack - Custom x2_197: -1030891832
+      Portrait Pack - Custom x2_198: 257392515
+      Portrait Pack - Custom x2_199: -211377647
+      Portrait Pack - Custom x2_2: 1797585800
+      Portrait Pack - Custom x2_20: -1191524422
+      Portrait Pack - Custom x2_21: 387178503
+      Portrait Pack - Custom x2_22: 2097850023
+      Portrait Pack - Custom x2_23: -1295192967
+      Portrait Pack - Custom x2_24: 1551626351
+      Portrait Pack - Custom x2_25: -310197681
+      Portrait Pack - Custom x2_26: -1759878182
+      Portrait Pack - Custom x2_27: -647345088
+      Portrait Pack - Custom x2_28: -965994133
+      Portrait Pack - Custom x2_29: 2121976192
+      Portrait Pack - Custom x2_3: 599813296
+      Portrait Pack - Custom x2_30: -293340681
+      Portrait Pack - Custom x2_31: -366894599
+      Portrait Pack - Custom x2_32: 27999218
+      Portrait Pack - Custom x2_33: 281660093
+      Portrait Pack - Custom x2_34: 1440988025
+      Portrait Pack - Custom x2_35: -1085490519
+      Portrait Pack - Custom x2_36: 1839388262
+      Portrait Pack - Custom x2_37: 512281136
+      Portrait Pack - Custom x2_38: -394166023
+      Portrait Pack - Custom x2_39: -21381737
+      Portrait Pack - Custom x2_4: 2088808980
+      Portrait Pack - Custom x2_40: 1377931421
+      Portrait Pack - Custom x2_41: 1543434260
+      Portrait Pack - Custom x2_42: -2016685878
+      Portrait Pack - Custom x2_43: -1379863836
+      Portrait Pack - Custom x2_44: 1766038685
+      Portrait Pack - Custom x2_45: 288217867
+      Portrait Pack - Custom x2_46: -413050479
+      Portrait Pack - Custom x2_47: -1595090154
+      Portrait Pack - Custom x2_48: -1221522849
+      Portrait Pack - Custom x2_49: -919551043
+      Portrait Pack - Custom x2_5: -377367047
+      Portrait Pack - Custom x2_50: -2100504502
+      Portrait Pack - Custom x2_51: 101996443
+      Portrait Pack - Custom x2_52: 688205868
+      Portrait Pack - Custom x2_53: -1978864278
+      Portrait Pack - Custom x2_54: -1429989098
+      Portrait Pack - Custom x2_55: -1961138891
+      Portrait Pack - Custom x2_56: -2056502391
+      Portrait Pack - Custom x2_57: 627907626
+      Portrait Pack - Custom x2_58: 273468883
+      Portrait Pack - Custom x2_59: 1946739546
+      Portrait Pack - Custom x2_6: -1925964804
+      Portrait Pack - Custom x2_60: 1457929550
+      Portrait Pack - Custom x2_61: 98300692
+      Portrait Pack - Custom x2_62: -1741494352
+      Portrait Pack - Custom x2_63: -51617943
+      Portrait Pack - Custom x2_64: 190856093
+      Portrait Pack - Custom x2_65: 1674290771
+      Portrait Pack - Custom x2_66: 671633433
+      Portrait Pack - Custom x2_67: 1850003948
+      Portrait Pack - Custom x2_68: -172150880
+      Portrait Pack - Custom x2_69: -431976169
+      Portrait Pack - Custom x2_7: 1942425702
+      Portrait Pack - Custom x2_70: 154311863
+      Portrait Pack - Custom x2_71: -1241216716
+      Portrait Pack - Custom x2_72: -2049557899
+      Portrait Pack - Custom x2_73: -1402886590
+      Portrait Pack - Custom x2_74: -1175240185
+      Portrait Pack - Custom x2_75: -1717407725
+      Portrait Pack - Custom x2_76: 2092676711
+      Portrait Pack - Custom x2_77: 615290961
+      Portrait Pack - Custom x2_78: -65759585
+      Portrait Pack - Custom x2_79: -1675088912
+      Portrait Pack - Custom x2_8: -2021348413
+      Portrait Pack - Custom x2_80: 1617717157
+      Portrait Pack - Custom x2_81: 1421285613
+      Portrait Pack - Custom x2_82: -571393183
+      Portrait Pack - Custom x2_83: -822418261
+      Portrait Pack - Custom x2_84: 849524295
+      Portrait Pack - Custom x2_85: -138828216
+      Portrait Pack - Custom x2_86: -1026830223
+      Portrait Pack - Custom x2_87: -998189123
+      Portrait Pack - Custom x2_88: -2044394715
+      Portrait Pack - Custom x2_89: 1812166109
+      Portrait Pack - Custom x2_9: 2130095580
+      Portrait Pack - Custom x2_90: -1111627573
+      Portrait Pack - Custom x2_91: -2095047565
+      Portrait Pack - Custom x2_92: -1419611069
+      Portrait Pack - Custom x2_93: 1603888959
+      Portrait Pack - Custom x2_94: 1140726073
+      Portrait Pack - Custom x2_95: 1121622245
+      Portrait Pack - Custom x2_96: -1695919409
+      Portrait Pack - Custom x2_97: -592489119
+      Portrait Pack - Custom x2_98: 1388754933
+      Portrait Pack - Custom x2_99: -68327143
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
